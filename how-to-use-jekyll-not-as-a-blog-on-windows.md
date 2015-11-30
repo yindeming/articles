@@ -17,3 +17,8 @@ Since I use windows, I need a way of manage articles easily.
 I use:
 - https://desktop.github.com/
 - [Portable Jekyll](https://github.com/madhur/PortableJekyll)
+
+To write articles, I can use any editor of my choice, I can also do it on GitHub website.
+
+The rules are simple:
+https://help.github.com/articles/markdown-basics/
