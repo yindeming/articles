@@ -12,7 +12,7 @@ So I don't have much to post, but I want to keep updating my (few) articles. I h
 
 # How to do it on windows
 
-Since I use windows, I need a way of manage articles easily.
+Since I use windows, I need a way of manage articles easily. And I don't like the tedious commands everytime I change something.
 
 I use:
 - https://desktop.github.com/
