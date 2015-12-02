@@ -69,7 +69,7 @@ ul.posts {
 
 .site {
   font-size: 110%;
-  text-align: justify;
+  text-align: center;
   width: 40em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
@@ -107,47 +107,47 @@ ul.posts {
   
 /*****************************************************************************/
 /*
-/* Pages
+/* Articles
 /*
 /*****************************************************************************/
 
-#page {
+#article {
 
 }
 
   /* standard */
 
-  #page pre {
+  #article pre {
     border: 1px solid #ddd;
     background-color: #eef;
     padding: 0 .4em;
   }
 
-  #page ul,
-  #page ol {
+  #article ul,
+  #article ol {
     margin-left: 1.35em;
   }
 
-  #page code {
+  #article code {
     border: 1px solid #ddd;
     background-color: #eef;
     font-size: 85%;
     padding: 0 .2em;
   }
 
-    #page pre code {
+    #article pre code {
       border: none;
     }
 
   /* terminal */
 
-  #page pre.terminal {
+  #article pre.terminal {
     border: 1px solid black;
     background-color: #333;
     color: white;
   }
 
-  #page pre.terminal code {
+  #article pre.terminal code {
     background-color: #333;
   }
 
