@@ -90,9 +90,6 @@ li {
 /*
 /*****************************************************************************/
 
-#article {
-
-}
 
   /* standard */
 
@@ -114,9 +111,9 @@ li {
     padding: 0 .2em;
   }
 
-    #article pre code {
-      border: none;
-    }
+  #article pre code {
+    border: none;
+  }
 
   /* terminal */
 
