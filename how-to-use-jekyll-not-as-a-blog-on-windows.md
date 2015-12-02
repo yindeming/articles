@@ -4,7 +4,7 @@ title: "How to use Jekyll not as a blog"
 permalink: /how-to-use-jekyll-not-as-a-blog-on-windows/
 ---
 
-## This is NOT a blog
+### This is NOT a blog
 
 So I don't have much to post, but I want to keep updating my (few) articles. I have found people with the same though in mind:
 - https://github.com/jekyll/jekyll/issues/1650
@@ -13,7 +13,7 @@ So I don't have much to post, but I want to keep updating my (few) articles. I h
 As for generate a list of pages(not posts):
 - http://stackoverflow.com/questions/17118551/generating-a-list-of-pages-not-posts-in-a-given-category
 
-## How to do it on windows
+### How to do it on windows
 
 Since I use windows, I need a way of manage articles easily. And I don't like the tedious commands everytime I change something.
 
@@ -28,16 +28,16 @@ To write articles, I can use any editor of my choice, I can also do it on GitHub
 The rules are simple:
 https://help.github.com/articles/markdown-basics/
 
-## Use the subdomain
+### Use the subdomain
 
 As I prefer a shorter link for my articles:
-articles.deming.im/how-to-use-jekyll-not-as-a-blog-on-windows/
+http://articles.deming.im/how-to-use-jekyll-not-as-a-blog-on-windows/
 other than
-yin.deming.im/how-to-use-jekyll-not-as-a-blog-on-windows/
+http://yin.deming.im/how-to-use-jekyll-not-as-a-blog-on-windows/
 
 This is archived through:
 http://stackoverflow.com/questions/10685961/multiple-github-pages-and-custom-domains-via-dns#
 
-## TODO: Make a list of articles:
+### TODO: Make a list of articles:
 
 - http://stackoverflow.com/questions/17118551/generating-a-list-of-pages-not-posts-in-a-given-category
