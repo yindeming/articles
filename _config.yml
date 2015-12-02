@@ -1,22 +1,7 @@
-# Site settings
-title: "Test Jekyll"
-description: "whatever"
-baseurl: ""
-url: "http://yin.deming.im"
-assetUrl: "https://raw.githubusercontent.com/yindmeing/yindeming.github.io/master/images/"
-
 # Build settings
 markdown: redcarpet
 redcarpet:
     extensions: [ "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
 
-permalink: pretty
 highlighter: pygments
-paginate: 3
 
-# Links
-links:
-  - title: "Page 1"
-    url: /articles
-  - title: "My Github"
-    url: http://github.com/yindeming

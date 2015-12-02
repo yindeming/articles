@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
-<div id="page">
-{{ content }}
-</div>
+
+<div id="article">
+
+  {{ content }}
+
+  {% if page.Time-stamp %}
+  Last Edited: {{ page.Time-stamp }}
+  {% endif %}
+
+ </div>

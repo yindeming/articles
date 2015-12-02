@@ -1,4 +1,5 @@
 ---
+Time-stamp: <02-12-2015 21:18>
 layout: article
 title: "How to use Jekyll not as a blog"
 permalink: /how-to-use-jekyll-not-as-a-blog-on-windows/
