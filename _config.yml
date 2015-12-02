@@ -3,7 +3,7 @@ title: "Test Jekyll"
 description: "whatever"
 baseurl: ""
 url: "http://yin.deming.im"
-assetUrl: "https://raw.githubusercontent.com/yindmeing/yindeming.github.io/master/images/post/"
+assetUrl: "https://raw.githubusercontent.com/yindmeing/yindeming.github.io/master/images/"
 
 # Build settings
 markdown: redcarpet
@@ -17,6 +17,6 @@ paginate: 3
 # Links
 links:
   - title: "Page 1"
-    url: /page1
+    url: /articles
   - title: "My Github"
     url: http://github.com/yindeming
