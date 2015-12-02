@@ -20,6 +20,8 @@ Since I use windows, I need a way of manage articles easily. And I don't like th
 I use:
 - https://desktop.github.com/
 - [Portable Jekyll](https://github.com/madhur/PortableJekyll)
+  Run `setpath.cmd`
+  Run `jekyll new myblog` and `jekyll serve` and check at http://localhost:4000
 
 To write articles, I can use any editor of my choice, I can also do it on GitHub website.
 
@@ -35,3 +37,7 @@ yin.deming.im/how-to-use-jekyll-not-as-a-blog-on-windows/
 
 This is archived through:
 http://stackoverflow.com/questions/10685961/multiple-github-pages-and-custom-domains-via-dns#
+
+## TODO: Make a list of articles:
+
+- http://stackoverflow.com/questions/17118551/generating-a-list-of-pages-not-posts-in-a-given-category
