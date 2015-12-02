@@ -1,17 +1,30 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
 
-<head>
-  <link rel="stylesheet" href="/css/screen.css" />
-  <link rel="stylesheet" href="/css/syntax.css" />
-</head>
+<div class="home">
 
-<body>
+  <h1 class="page-heading">Articles</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+
+
+
+
   <h2>{{ page.title }}</h2>
   <p>Looks like I have to manually maintain the list :S</p>
   <ul>
 　  <li><a href="/articles/how-to-use-jekyll-not-as-a-blog-on-windows">How to use Jekyll not as a blog</a></li>
   </ul>
-</body>
 
-</html>
+</div>
