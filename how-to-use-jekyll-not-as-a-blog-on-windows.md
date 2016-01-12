@@ -14,7 +14,7 @@ So I don't have much to post, but I want to keep updating my (few) articles. I h
 As for generate a list of pages(not posts):
 - http://stackoverflow.com/questions/17118551/generating-a-list-of-pages-not-posts-in-a-given-category
 
-### How to do it on windows
+### How to set it up on windows
 
 Since I use windows, I need a way of manage articles easily. And I don't like the tedious commands everytime I change something.
 
@@ -38,6 +38,10 @@ http://yin.deming.im/how-to-use-jekyll-not-as-a-blog-on-windows/
 
 This is archived through:
 http://stackoverflow.com/questions/10685961/multiple-github-pages-and-custom-domains-via-dns#
+
+### Use a preferred style
+
+I like the plain and simple BootStrap theme, so I changed in _layout/default.html and it looks good so far.
 
 ### TODO: Make a list of articles:
 
