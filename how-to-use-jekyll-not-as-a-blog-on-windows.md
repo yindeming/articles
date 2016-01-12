@@ -1,7 +1,7 @@
 ---
-Time-stamp: <02-12-2015 21:18>
+Time-stamp: <12-01-2016 18:18>
 layout: article
-title: "How to use Jekyll not as a blog"
+title: "How to use Jekyll not as a blog on Windows"
 permalink: /how-to-use-jekyll-not-as-a-blog-on-windows/
 ---
 
@@ -14,7 +14,7 @@ So I don't have much to post, but I want to keep updating my (few) articles. I h
 As for generate a list of pages(not posts):
 - http://stackoverflow.com/questions/17118551/generating-a-list-of-pages-not-posts-in-a-given-category
 
-### How to set it up on windows
+### How to set it up on Windows
 
 Since I use windows, I need a way of manage articles easily. And I don't like the tedious commands everytime I change something.
 
@@ -43,6 +43,7 @@ http://stackoverflow.com/questions/10685961/multiple-github-pages-and-custom-dom
 
 I like the plain and simple BootStrap theme, so I changed in _layout/default.html and it looks good so far.
 
-### TODO: Make a list of articles:
+### Make a list of articles:
 
+I followed the link below and used a for loop to go through the articles, don't need categories for that:
 - http://stackoverflow.com/questions/17118551/generating-a-list-of-pages-not-posts-in-a-given-category
