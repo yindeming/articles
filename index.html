@@ -8,15 +8,17 @@ layout: default
 
   <ul class="post-list">
     {% for page in site %}
-      <li>
-        <h2>
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        </h2>
-      </li>
+	  {% if page.layout == article %}
+        <li>
+          <h2>
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          </h2>
+        </li>
 	  
-	  <div class="item">
-        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-      </div>
+	    <div class="item">
+          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        </div>
+	  {% endif %}
     {% endfor %}
   </ul>
 
