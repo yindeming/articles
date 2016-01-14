@@ -7,7 +7,9 @@ permalink: /how-to-use-jekyll-not-as-a-blog-on-windows/
 
 ### This is NOT a blog
 
-So I don't have much to post, but I want to keep updating my (few) articles. I have found people with the same though in mind:
+I don't like the fact that blog posts by default are displayed by date order, and it usually takes forever to scroll down the mouse to find what you want to read.
+
+And I don't have much to post, but I want to keep updating a few articles of mine. I have found people with the same though in mind:
 - https://github.com/jekyll/jekyll/issues/1650
 - http://stackoverflow.com/questions/30837079/using-jekyll-for-website-without-blog
 
