@@ -70,3 +70,6 @@ When adding Page Rule, depending on your domains, Luc pointed out that the follo
 I added a Page Rule:
 
 ![https: ON](/images/add-new-rule.png)
+
+Don't forget to change the CSS link, if the CSS is not functioning.
+(https://sheharyar.me/blog/free-ssl-for-github-pages-with-custom-domains/)
