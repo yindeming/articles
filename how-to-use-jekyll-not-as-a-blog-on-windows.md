@@ -1,5 +1,5 @@
 ---
-Time-stamp: <12-01-2016 18:18>
+Time-stamp: <08-02-2016 11:25>
 layout: article
 title: "How to use Jekyll not as a blog on Windows"
 permalink: /how-to-use-jekyll-not-as-a-blog-on-windows/
@@ -49,3 +49,24 @@ I like the plain and simple BootStrap theme, so I changed in _layout/default.htm
 
 I followed the link below and used a for loop to go through the articles, don't need categories for that:
 - http://stackoverflow.com/questions/17118551/generating-a-list-of-pages-not-posts-in-a-given-category
+
+### Add SSL from CloudFlare
+
+Follow the link below will be suffice:
+- https://www.benburwell.com/posts/configuring-cloudflare-universal-ssl/
+
+When adding Page Rule, depending on your domains, Luc pointed out that the following patterns work:
+
+(https://stackoverflow.com/questions/35012655/cloudflare-ssl-page-rules)
+
+`http://example.com/`
+
+`http://example.com/*`
+
+`http://*.example.com/`
+
+`http://*.example.com/*`
+
+I added a Page Rule:
+
+![https: ON](/images/add-new-rule.jpg)
