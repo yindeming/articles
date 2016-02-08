@@ -69,4 +69,4 @@ When adding Page Rule, depending on your domains, Luc pointed out that the follo
 
 I added a Page Rule:
 
-![https: ON](/images/add-new-rule.jpg)
+![https: ON](/images/add-new-rule.png)
