@@ -52,6 +52,8 @@ I followed the link below and used a for loop to go through the articles, don't 
 
 ### Add SSL from CloudFlare
 
+(There is another free SSL provider: https://www.startssl.com/)
+
 Follow the link below will be suffice:
 - https://www.benburwell.com/posts/configuring-cloudflare-universal-ssl/
 
