@@ -5,7 +5,7 @@ title: "How to use Jekyll not as a blog on Windows"
 permalink: /how-to-use-jekyll-not-as-a-blog-on-windows/
 ---
 
-### This is NOT a blog
+#### This is NOT a blog
 
 I don't like the fact that blog posts by default are displayed by date order, and it usually takes forever to scroll down the mouse to find what you want to read.
 
@@ -16,7 +16,7 @@ And I don't have much to post, but I want to keep updating a few articles of min
 As for generate a list of pages(not posts):
 - http://stackoverflow.com/questions/17118551/generating-a-list-of-pages-not-posts-in-a-given-category
 
-### How to set it up on Windows
+#### How to set it up on Windows
 
 Since I use windows, I need a way of manage articles easily. And I don't like the tedious commands everytime I change something.
 
@@ -31,7 +31,7 @@ To write articles, I can use any editor of my choice, I can also do it on GitHub
 The rules are simple:
 https://help.github.com/articles/markdown-basics/
 
-### Use the subdomain
+#### Use the subdomain
 
 As I prefer a shorter link for my articles:
 http://articles.deming.im/how-to-use-jekyll-not-as-a-blog-on-windows/
@@ -41,16 +41,16 @@ http://yin.deming.im/how-to-use-jekyll-not-as-a-blog-on-windows/
 This is archived through:
 http://stackoverflow.com/questions/10685961/multiple-github-pages-and-custom-domains-via-dns#
 
-### Use a preferred style
+#### Use a preferred style
 
 I like the plain and simple BootStrap theme, so I changed in _layout/default.html and it looks good so far.
 
-### Make a list of articles:
+#### Make a list of articles:
 
 I followed the link below and used a for loop to go through the articles, don't need categories for that:
 - http://stackoverflow.com/questions/17118551/generating-a-list-of-pages-not-posts-in-a-given-category
 
-### Add SSL from CloudFlare
+#### Add SSL from CloudFlare
 
 (There is another free SSL provider: https://www.startssl.com/)
 
