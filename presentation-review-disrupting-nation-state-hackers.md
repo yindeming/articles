@@ -10,8 +10,6 @@ Recently, NSA TAO Chief gave a presentation about defensive strategies from a st
 * Video: https://www.youtube.com/watch?v=bDJb8WOJYdA
 
 <iframe 
-  width="560" 
-  height="315" 
   src="http://www.youtube.com/embed/bDJb8WOJYdA" 
   frameborder="0" 
   allowfullscreen>
