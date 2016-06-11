@@ -1,8 +1,8 @@
 ---
 Time-stamp: <08-02-2016 11:25>
 layout: article
-title: "How to use Jekyll not as a blog on Windows"
-permalink: /how-to-use-jekyll-not-as-a-blog-on-windows/
+title: "Use Jekyll not as a blog on Windows"
+permalink: /use-jekyll-not-as-a-blog-on-windows/
 ---
 
 #### This is NOT a blog
