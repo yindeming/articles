@@ -7,7 +7,9 @@ permalink: /presentation-review-disrupting-nation-state-hackers/
 
 Recently, NSA TAO Chief gave a presentation about defensive strategies from a state attacker in practice. While the public attention is drawn to the speecher's position. From a beginner of security practices' point of view, I find it informative for both offensive and defensive side. It pointed out some places worth looking at during a penetration testing. This is a noted script of the presentation, as all related articles just picked some quotes but didn't tell the whole story.
 
-* Video: <iframe width="560" height="315" src="https://www.youtube.com/embed/bDJb8WOJYdA" frameborder="0" allowfullscreen></iframe>
+* Video: 
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bDJb8WOJYdA" frameborder="0" allowfullscreen></iframe>
 
 * Slides: https://www.usenix.org/sites/default/files/conference/protected-files/enigma_slides_joyce.pdf
 
