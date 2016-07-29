@@ -17,7 +17,7 @@ Recently, NSA TAO Chief gave a presentation about defensive strategies from a st
 
 His advices:
 
-* If you really want to protect your network, you really have to know your network. You have to know the devices, the security, technologies and the things inside it. We put the time in to know that network ... to know it better than the people who designed it and the the people who are securing it. And that's the bottom line.
+> If you really want to protect your network, you really have to know your network. You have to know the devices, the security, technologies and the things inside it. We put the time in to know that network ... to know it better than the people who designed it and the the people who are securing it. And that's the bottom line.
 
 The rest of the speech:
 
